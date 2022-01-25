@@ -10162,7 +10162,8 @@ body.modal-open {
 
 .modal {
   z-index: 99999999;
-  background: #212428;
+  /* background: #212428; */
+  background: rgba(29, 29, 29, 0.8);
   padding: 60px 15px !important; }
   .modal.modal-boxed-home {
     width: calc(100% - 50px) !important;
