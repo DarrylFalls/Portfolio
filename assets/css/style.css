@@ -14605,3 +14605,6 @@ body.white-version {
   color: var(--color-white) !important; }
 
 /*# sourceMappingURL=../maps/style.css.map */
+.menu-picture {
+  height: 75px;
+}
